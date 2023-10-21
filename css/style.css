@@ -17,6 +17,10 @@ body {
   font-size: 17px;
 }
 
+.set-image-portfolio {
+  border-radius: 6px;
+}
+
 p, .paragraph {
   font-weight: 300;
   color: #4d546f;
